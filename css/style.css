@@ -13,6 +13,7 @@
 body { background-color: rgb(223, 236, 238);
   margin-top: 0px;
   text-align: center;
+  width: 100%;
 }
 
 header {
@@ -77,14 +78,16 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, antiq
 .skill {
     text-align: center;
     background-color: darkgrey;
-    width: 70%;
+    width: 55%;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 3px;
+    border-radius: 40%;
 }
 
 .skill a {
     text-decoration: none;
+    font-size: 15px;
 }
 .skill li {
     list-style: none;
