@@ -60,6 +60,9 @@ a:hover {
     font-size: medium;
     text-decoration: none;
 }
+.name {
+  color: darkblue;
+}
 
 
 #top_hr, #botton_hr {
