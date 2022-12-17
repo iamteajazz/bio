@@ -14,9 +14,7 @@ body { background-color: rgb(223, 236, 238);
   
 }
 
-.check {
-  background-color: darkblue;
-}
+
 
 header {
     background-color:aliceblue;
@@ -74,10 +72,15 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, antiq
     margin-right: auto;
 }
 
+.check {
+  background-color: darkblue;
+}
+
 .skill-h1 {
     font-size: 40px;
     margin-top: 70px;
     text-align: center;
+    color: darkblue;
 }
 
 .skill {
